@@ -248,6 +248,7 @@ input {
 }
 
 input.button {
+	font-family: 'Oswald', Calibri, Arial, sans-serif;
 	background: #1F253D;
 	color: #95a5a6;
 	font-size: 2em;
